@@ -82,9 +82,4 @@ To automate these tasks, you can set up cron jobs:
 ## Contributions
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-Happy scripting! :gear:
